@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Customer>
+    <Dob>2000-01-12T12:13:14Z</Dob>
+    <Address>
+        <Line1>34 thingy street, someplace</Line1>
+        <Line2>sometown, ww1 8uu</Line2>
+    </Address>
+</Customer>
